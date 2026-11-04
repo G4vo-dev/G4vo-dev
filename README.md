@@ -89,16 +89,17 @@ const zet = {
 ## 🗺️ Minha jornada
 
 ```text
-2024 ──● Técnico em Química · SENAI
+  2024 ●  Técnico em Química · SENAI
        │
        ●  Jovem aprendiz de qualidade → auxiliar em cosméticos
-       │  Primeiros bots de WhatsApp rodando no Termux, direto do celular
        │
-2026 ──● Auxiliar de laboratório em lubrificantes
+mai/26 ●  Auxiliar de laboratório em lubrificantes
        │  Análise e Desenvolvimento de Sistemas · Uninter
+       │
+nov/26 ●  Primeiro bot de WhatsApp, rodando no Termux direto do celular
        │  Bots publicados com testes, lint e CI
        │
- next ──○ SQLite no lugar dos JSON · painel web para os comércios · primeira vaga em dev
+  next ○  SQLite no lugar dos JSON · painel web para os comércios · primeira vaga em dev
 ```
 
 ## 📊 Estatísticas
