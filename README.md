@@ -91,12 +91,15 @@ const zet = {
 ```text
   2024 ●  Técnico em Química · SENAI
        │
-       ●  Jovem aprendiz de qualidade → auxiliar em cosméticos
+mar/25 ●  Auxiliar de laboratório · indústria de cosméticos
        │
-mai/26 ●  Auxiliar de laboratório em lubrificantes
-       │  Análise e Desenvolvimento de Sistemas · Uninter
+nov/25 ●  Aprendiz de qualidade · indústria agro
        │
-nov/26 ●  Primeiro bot de WhatsApp, rodando no Termux direto do celular
+mai/26 ●  Auxiliar de laboratório · indústria de lubrificantes
+       │
+set/26 ●  Primeiro bot de WhatsApp, rodando no Termux direto do celular
+       │
+nov/26 ●  Começo de Análise e Desenvolvimento de Sistemas · Uninter
        │  Bots publicados com testes, lint e CI
        │
   next ○  SQLite no lugar dos JSON · painel web para os comércios · primeira vaga em dev
