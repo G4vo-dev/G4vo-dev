@@ -108,7 +108,7 @@ nov/26 ●  Começo de Análise e Desenvolvimento de Sistemas · Uninter
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=G4vo-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ff6ac1&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="165" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
   <img height="165" src="https://streak-stats.demolab.com?user=G4vo-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6ac1&currStreakLabel=a78bfa&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
