@@ -17,17 +17,17 @@
 
 ## 🧪 → 💻 Quem sou eu
 
-Oi! Eu sou o **Gustavo**, mas pode me chamar de **Zet**. Sou **técnico em Química pelo SENAI**, trabalho como **auxiliar de laboratório** numa indústria de lubrificantes e estudo **Análise e Desenvolvimento de Sistemas** na Uninter.
+Oi! Eu sou o **Gustavo**, mas pode me chamar de **Zet**. Sou **técnico em Química pelo SENAI**, estudo **Análise e Desenvolvimento de Sistemas** na Uninter e estou procurando **estágio em desenvolvimento back-end**, com disponibilidade imediata.
 
-De dia eu analiso amostras; de noite eu escrevo código. No laboratório aprendi que **um resultado só vale se der para repetir**, e é assim que eu programo: testes automatizados, CI verde e cada passo registrado.
+Passei por laboratório e controle de qualidade na indústria. Na última vaga, como auxiliar de laboratório, criei uma automação em Excel (VBA) integrada ao LIMS que cortou uma rotina de 30 para 15 minutos, cerca de 18 horas economizadas por mês. No laboratório aprendi que **um resultado só vale se der para repetir**, e é assim que eu programo: testes automatizados, CI verde e cada passo registrado.
 
 ```js
 const zet = {
   base: "Técnico em Química · SENAI (2024)",
-  hoje: ["Auxiliar de laboratório", "Estudante de ADS · Uninter (EAD)"],
+  hoje: ["Estudante de ADS · Uninter (EAD)", "procurando estágio em back-end"],
   stack: ["Node.js", "JavaScript", "Baileys", "SQLite", "Termux"],
   construindo: "bots de WhatsApp que tiram trabalho repetitivo das pessoas",
-  aberto_a: ["freelas de bots e automação", "estágio ou vaga júnior em dev"],
+  aberto_a: ["estágio em desenvolvimento", "freelas de bots e automação"],
   mora_em: "Grande São Paulo 🇧🇷",
   gato: { nome: "Tom", cor: "preto", cargo: "QA de teclado 🐈‍⬛" },
 };
@@ -96,13 +96,15 @@ mar/25 ●  Auxiliar de laboratório · indústria de cosméticos
 nov/25 ●  Aprendiz de qualidade · indústria agro
        │
 mai/26 ●  Auxiliar de laboratório · indústria de lubrificantes
+       │  Automação em VBA + LIMS: rotina de 30 para 15 minutos
        │
 set/26 ●  Primeiro bot de WhatsApp, rodando no Termux direto do celular
        │
 nov/26 ●  Começo de Análise e Desenvolvimento de Sistemas · Uninter
        │  Bots publicados com testes, lint e CI
+       │  Saída do laboratório para focar em desenvolvimento
        │
-  next ○  SQLite no lugar dos JSON · painel web para os comércios · primeira vaga em dev
+  next ○  SQLite no lugar dos JSON · painel web para os comércios · primeiro estágio em dev
 ```
 
 ## 📊 Estatísticas
